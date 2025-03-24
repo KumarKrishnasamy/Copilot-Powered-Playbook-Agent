@@ -1,2 +1,3 @@
 # flw-ai-playbook
 FLW AI - Art of Possibles with AI/Copilot Catalyst
+This Frontline Worker (FLW) AI Playbook serves a strategy and practical guide for organizations aiming to optimize the efficiency, productivity, and engagement of their frontline workforce by leveraging Microsoft AI solutions centered around Microsoft Teams including Copilot Studio, Copilot Chat and M365 Copilot. This document provides a structured approach to rapidly deploy, integrate, and maximize AI-powered capabilities for FLW scenarios across industries such as retail, healthcare, manufacturing, logistics, and field services.
