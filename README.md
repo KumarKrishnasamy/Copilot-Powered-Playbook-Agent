@@ -3,6 +3,7 @@
 This project demonstrates how to turn your existing Standard Operating Procedures (SOPs), manuals, and internal playbooks into a conversational Copilot AI agent using Microsoft Copilot Studio.
 
 **Key Features**
+
 ✉ Conversational interface powered by Microsoft Copilot Studio
 ✔ Uses existing SOPs, manuals, or policy documents
 💬 Responds to natural language questions
