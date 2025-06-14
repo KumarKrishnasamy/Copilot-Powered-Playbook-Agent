@@ -1,4 +1,5 @@
 **# Copilot Powered Playbook Agent**
+
 **Overview**
 This project demonstrates how to turn your existing Standard Operating Procedures (SOPs), manuals, and internal playbooks into a conversational Copilot AI agent using Microsoft Copilot Studio.
 
@@ -12,6 +13,7 @@ This project demonstrates how to turn your existing Standard Operating Procedure
 🔄 Extendable using Power Automate
 
 **Why Use This**
+
 ✅ Rapid AI deployment (build in under an hour)
 📆 Ideal for Safety, HR, Onboarding, Service, or Policy Q&A
 🔒 Centralized source of truth with easy access
@@ -19,12 +21,13 @@ This project demonstrates how to turn your existing Standard Operating Procedure
 
 **Quick Start Guide**
 
-**Install Prerequisites**__
+**Install Prerequisites**
 Microsoft 365 Copilot license
 Access to Microsoft Copilot Studio: https://aka.ms/copilotstudio
 Microsoft Teams admin rights
 
-**Create a New Agent**__
+**Create a New Agent**
+
 Open Copilot Studio and create a new agent named SOP Assistant
 Import topics from the /topics/ folder
 
