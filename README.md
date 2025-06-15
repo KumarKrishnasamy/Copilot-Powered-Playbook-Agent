@@ -1,40 +1,46 @@
-Copilot Powered Playbook Agent
+**Copilot Powered Playbook Agent**
+
 Overview
+
 This project demonstrates how to turn your existing organizational playbooks, SOPs, and internal manuals into a conversational AI agent using Microsoft Copilot Studio. The solution empowers frontline workers to ask natural-language questions and receive answers directly from trusted playbook via Microsoft Teams (or other channels).
-🔎 Key Features
-•	Conversational interface powered by Microsoft Copilot Studio
-•	Uses playbooks, SOPs, or guideline documents as knowledge base
-•	Responds to natural language questions and task guidance
-•	Securely integrates with SharePoint, Dataverse, or OneDrive
-•	Deployable within Microsoft Teams or other channels
-•	Extendable workflows using Power Automate
-🥇 Why Use This
-•	Fast and low-effort AI deployment for frontline environments
-•	Supports Safety, HR, Compliance, IT, and Operational playbooks
-•	Centralized, version-controlled knowledge access
-•	Scalable with minimal uplift in training or IT dependencies
-________________________________________
-📁 Folder Structure
+
+🔎 **Key Features**
+ •	Conversational interface powered by Microsoft Copilot Studio
+ •	Uses playbooks, SOPs, or guideline documents as knowledge base
+ •	Responds to natural language questions and task guidance
+ •	Securely integrates with SharePoint, Dataverse, or OneDrive
+ •	Deployable within Microsoft Teams or other channels
+ •	Extendable workflows using Power Automate
+
+🥇 **Why Use This**
+ •	Fast and low-effort AI deployment for frontline environments
+ •	Supports Safety, HR, Compliance, IT, and Operational playbooks
+ •	Centralized, version-controlled knowledge access
+ •	Scalable with minimal uplift in training or IT dependencies
+
+ 📁 **Folder Structure**
 /copilot-powered-playbook-agent
-|-- topics/                 # Prebuilt app-package topic for Copilot Studio
-|-- documents/               # Sample playbook and manuals (text or .pdf)
-|-- setup/                   # channel setup guide
-|-- deployment/              # App manifest and package
-|-- assets/                  # Images and icons
-|-- README.md                # This file ________________________________________
-📂 Folder Descriptions & Sample Content
-/topics/
-Purpose: JSON-based topic configurations for Microsoft Copilot Studio
-/documents/
-Purpose: Sample playbooks or guides used for agent knowledge reference. 
-/setup/
-Purpose: the guidance document to deploy the package in Teams and configure.
-/deployment/
-Purpose: Resources to publish your agent into Microsoft Teams. 
-/assets/
-Purpose: Visual branding and helpful illustrations. 
-________________________________________
-Prerequisites and Costs
+  |-- topics/                 # Prebuilt app-package topic for Copilot Studio
+  |-- documents/               # Sample playbook and manuals (text or .pdf)
+  |-- setup/                   # channel setup guide
+  |-- deployment/              # App manifest and package
+  |-- assets/                  # Images and icons
+  |-- README.md                # This file 
+  
+📂 **Folder Descriptions & Sample Content**
+  /topics/
+  Purpose: JSON-based topic configurations for Microsoft Copilot Studio
+  /documents/
+  Purpose: Sample playbooks or guides used for agent knowledge reference. 
+  / setup/
+  Purpose: the guidance document to deploy the package in Teams and configure.
+  /deployment/
+  Purpose: Resources to publish your agent into Microsoft Teams. 
+  /assets/
+  Purpose: Visual branding and helpful illustrations. 
+
+**Prerequisites and Costs**
+
 To deploy this solution accelerator, ensure you have access to the following
 •	Microsoft Power Platform license with Dataverse enabled and System Administrator access
 •	Copilot Studio license
@@ -50,8 +56,8 @@ Microsoft Copilot Studio is a graphical, low-code tool designed for building AI-
 Microsoft 365
 Microsoft 365 is a cloud-powered productivity platform that includes a suite of applications and services designed to enhance productivity and collaboration.	Pricing
 
-________________________________________
-📖 Quick Start Guide
+
+📖 **Quick Start Guide**
 1.	Install Prerequisites
 •	Microsoft 365 Copilot license Copilot Studio license
 •	Access to Microsoft Copilot Studio: https://aka.ms/copilotstudio (note: in this example the author has used copilot preview to expose key features)
